@@ -3,7 +3,7 @@
 ############################# Server Basics #############################
 
 export BROKER_ID=${BROKER_ID:-0}
-export DELETE_TOPIC_ENABLE=${DELETE_TOPIC_ENABLE:-false}\
+export DELETE_TOPIC_ENABLE=${DELETE_TOPIC_ENABLE:-false}
 
 ############################# Socket Server Settings #############################
 
